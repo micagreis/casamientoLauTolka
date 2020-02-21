@@ -39,7 +39,7 @@
 
 @font-face {
 	font-family: 'JessiFont';
-	src: url('fonts/Gatteway Signature demo.otf');
+	src: url('fonts/Gatteway_Signature_demo.otf');
 }
 
 html{ font-size: 100%; height: 100%; overflow-x: hidden;margin: 0px;  padding: 0px; touch-action: manipulation; }
